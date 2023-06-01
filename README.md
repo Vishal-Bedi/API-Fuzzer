@@ -56,11 +56,11 @@ The HTML report is particularly useful, as it groups the requests by module and 
 
 To install, clone the repository and install the required packages:
 
-sh
-
+```
 git clone https://github.com/Vishal-Bedi/KhadakSingh-API-Fuzzer.git
 cd fuzzer
 pip install -r requirements.txt
+```
 
 ## Reporting Bugs/Issues
 
