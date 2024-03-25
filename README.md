@@ -1,4 +1,5 @@
 # KhadakSingh API Fuzzer
+Contributors: khyatiparekh
 
 This is a comprehensive, feature-rich API Fuzzer designed to help discover potential vulnerabilities in your application.
 Features:
